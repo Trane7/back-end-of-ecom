@@ -1,7 +1,28 @@
 {
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^11.0.0",
+    "express": "^4.17.2",
     "mysql2": "^2.3.3",
     "sequelize": "^6.13.0"
-  }
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node server.js",
+    "seeds": "node seeds/index.js"
+  },
+  "name": "back-end-of-ecom",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trane7/back-end-of-ecom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trane7/back-end-of-ecom/issues"
+  },
+  "homepage": "https://github.com/Trane7/back-end-of-ecom#readme"
 }
