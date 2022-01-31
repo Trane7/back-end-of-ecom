@@ -42,5 +42,7 @@ quit
 npm run seed
 npm start
 
-### Contributing
+### Contributing/Links
 GitHub Repo link: https://trane7.github.io/back-end-of-ecom/
+
+Demo Video Link again: https://watch.screencastify.com/v/A7ktPCXWxOIPFmQCrIGb
