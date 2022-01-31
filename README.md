@@ -5,13 +5,13 @@ A mySQL backend for a e-commerce database and application site. Built using MySQ
 
 Link to demo video: 
 
-### User Story
+## User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 
-#### Acceptance Criteria
+## Acceptance Criteria
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
@@ -25,13 +25,13 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database.
 
 
-##### Installation
+## Installation
 1. npm init
 2. npm install mysql2
 3. npm install sequelize
 4. npm install dotenv
 
-###### Usage
+## Usage
 Please run the following commands at the root of your projects directory then enter the prompted questions that follow:
 mysql -u root -p
 
@@ -42,5 +42,5 @@ quit
 npm run seed
 npm start
 
-###### Contributing
+### Contributing
 GitHub Repo link: https://trane7.github.io/back-end-of-ecom/
