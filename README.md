@@ -3,7 +3,7 @@
 ## Description
 A mySQL backend for a e-commerce database and application site. Built using MySQL2, Express, Sequelize, and dotenv.
 
-Link to demo video: 
+Link to demo video: https://watch.screencastify.com/v/A7ktPCXWxOIPFmQCrIGb
 
 ## User Story
 AS A manager at an internet retail company
